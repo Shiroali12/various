@@ -4,6 +4,6 @@ public static class Class1
 {
 		public static void Main()
 		{
-			Console.WriteLine("aaaaaa");
+			Console.WriteLine("aaa");
 		} 
 }
